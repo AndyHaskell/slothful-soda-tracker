@@ -2,10 +2,10 @@ Slothful Soda Tracker
 =====================
 
 ##A slothy take on pizza delivery trackers
-
+![Slothful Soda Tracker demo GIF](https://github.com/AndyHaskell/slothful-soda-tracker/blob/master/public/images/slothful-soda-tracker-demo.gif?raw=true)
 ###How to install:
 * Run `npm install` to get the Node.js modules and `bower install` to get the Bower components.
-* In `views/index.html` add your Google Maps API key where it says YOUR_GOOGLE_MAPS_API_KEY in the `<script>` tag for getting the Google Maps API
+* In `views/index.html` add your Google Maps API key where it says `YOUR_GOOGLE_MAPS_API_KEY` in the `<script>` tag for getting the Google Maps API
 * Then to start the server, run `node server.js` and go to `localhost:1123`
 
 ###How to use:
