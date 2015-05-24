@@ -1,0 +1,12 @@
+{
+  "name": "slothful-soda-tracker",
+  "version": "0.0.1",
+  "description": "A delivery tracker for finding where the Slothful Soda delivery quadcopters are",
+  "main": "server.js",
+  "author": "&y Haskell",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5"
+  }
+}
