@@ -8,6 +8,8 @@ Slothful Soda Tracker
 * In `views/index.html` add your Google Maps API key where it says `YOUR_GOOGLE_MAPS_API_KEY` in the `<script>` tag for getting the Google Maps API
 * Then to start the server, run `node server.js` and go to `localhost:1123`
 
+You can also find a Go version of this web app [here](https://github.com/AndyHaskell/go-slothful-soda-tracker).
+
 ###How to use:
 When you load the main page, the Google Map that appears will have a hibiscus flower on it, which
 is your marker. You can move your position with the W, A, S, and D keys (W = north, A = west,
